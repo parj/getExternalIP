@@ -129,6 +129,9 @@
           </from>
           <to>
             <image>docker.io/parjanya/${project.name}:${project.version}</image>
+            <tags>
+              <tag>latest</tag>
+            </tags>
           </to>
           <container>
             <args>

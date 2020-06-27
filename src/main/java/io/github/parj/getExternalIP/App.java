@@ -2,6 +2,9 @@ package io.github.parj.getExternalIP;
 
 import java.util.Optional;
 
+/**
+ * Main class for entry point
+ */
 public class App {
 
     public static void main(String[] args) {
