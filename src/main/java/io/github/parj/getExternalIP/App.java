@@ -5,7 +5,7 @@ import java.util.Optional;
 public class App {
 
     public static void main(String[] args) {
-        String port = Optional.ofNullable(System.getenv("port")).orElse("9090");
+        String port = Optional.ofNullable(System.getenv("port")).orElse("9998");
         MainServer.getInstance()
                 .startServer()
                 .startReverseProxy(Integer.valueOf(port));
