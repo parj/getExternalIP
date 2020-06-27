@@ -5,7 +5,7 @@
 
   <groupId>io.github.parj</groupId>
   <artifactId>getexternalip</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
 
   <name>getexternalip</name>
   <description>Gets external IP address</description>
@@ -31,7 +31,7 @@
     <url>https://github.com/parj/getExternalIP</url>
     <connection>scm:git:git@github.com:parj/getExternalIP.git</connection>
     <developerConnection>scm:git:git@github.com:parj/getExternalIP.git</developerConnection>
-    <tag>getexternalip-1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <distributionManagement>
