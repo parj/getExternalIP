@@ -52,7 +52,7 @@
     <java.version>${maven.compiler.source}</java.version>
     <junit.jupiter.version>5.6.2</junit.jupiter.version>
     <slf4j.version>1.7.30</slf4j.version>
-    <logback.version>1.2.3</logback.version>
+    <logback.version>1.4.12</logback.version>
     <unirest.version>3.7.02</unirest.version>
     <jar_file>${project.build.directory}/${project.build.finalName}.jar</jar_file>
   </properties>
